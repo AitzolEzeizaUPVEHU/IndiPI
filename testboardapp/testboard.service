@@ -1,0 +1,12 @@
+[Unit]
+Description=Testboard app service
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/pi/testboardapp/testboard.py
+WorkingDirectory=/home/pi/testboardapp/
+Restart=always
+Environment=FLASK_DEBUG=0
+
+[Install]
+WantedBy=multi-user.target
