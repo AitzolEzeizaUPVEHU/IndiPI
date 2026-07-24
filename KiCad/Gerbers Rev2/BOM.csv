@@ -1,0 +1,6 @@
+"Id";"Identificador";"Huella";"Cantidad";"Identificación";"Suministrador y ref";
+1;"J1";"PinSocket_1x10_P2.54mm_Vertical";1;"ADS1115";;;
+2;"J11,J12,J6,J13,J7,J10,J9,J14,J5,J8";"PinSocket_1x01_P2.54mm_Horizontal";10;"Conn_01x01";;;
+3;"J2";"PinHeader_2x20_P2.54mm_Horizontal";1;"R PI GPIO 40";;;
+4;"J3";"PinSocket_2x17_P2.54mm_Vertical";1;"MXP";;;
+5;"J4";"PinSocket_2x06_P2.54mm_Vertical";1;"PMOD";;;
