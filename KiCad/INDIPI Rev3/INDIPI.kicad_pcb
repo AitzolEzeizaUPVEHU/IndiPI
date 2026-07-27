@@ -7907,7 +7907,7 @@
 		)
 	)
 	(gr_text "Aitzol Ezeiza, Imanol Bardaji, and Kauldi Odriozola\nRev3 - 2026 - University of the Basque Country EHU"
-		(at 97 169 0)
+		(at 92 169 0)
 		(layer "B.SilkS")
 		(uuid "11261898-09fe-4858-80f7-e818975dcf18")
 		(effects
@@ -7916,7 +7916,7 @@
 				(thickness 0.3)
 				(bold yes)
 			)
-			(justify left bottom)
+			(justify left bottom mirror)
 		)
 	)
 	(segment
